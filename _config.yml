@@ -1,3 +1,15 @@
 markdown: kramdown
 kramdown:
    auto_ids: true
+   math_engine: mathjax
+si: false
+safe: true
+incremental: false
+highlighter: rouge
+gist:
+  noscript: false
+collections:
+  Casas:
+    type: page
+    permalink: /casas/:path/
+    output: true
