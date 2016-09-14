@@ -3,7 +3,7 @@ layout: default
 ---
 <h2>Lista de Casas</h2>
 <ul>
-  {% for casa in site.Casas %}
+  {% for casa in site.casas %}
     <li>
       <a href="{{ casa.url | prepend: site.github.url }}">{{ casa.title }}</a>
     </li>

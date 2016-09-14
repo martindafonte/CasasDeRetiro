@@ -9,7 +9,7 @@ highlighter: rouge
 gist:
   noscript: false
 collections:
-  Casas:
+  casas:
     type: page
     permalink: /casas/:path/
     output: true
