@@ -5,6 +5,8 @@ Casas de retiro en Uruguay
 
 Links que resultan útiles para el desarrolo:
 
+[Guía jekyll 2](http://jmcglone.com/guides/github-pages/)
+
 [Guía Jekyll](https://jekyllrb.com/docs/posts/)
 
 [Tutorial](http://blog.revolunet.com/blog/2015/07/15/beautiful-static-website-in-minutes-with-github/)
