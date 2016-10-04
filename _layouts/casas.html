@@ -4,18 +4,28 @@
 {%include page-header.html%}
 
 <section class="main-content">
-  <h1>{{page.title}}</h1>
-  <p><i class="material-icons">location_on</i>Dirección: {{page.direccion}}</p>
-  <p><i class="material-icons">location_city</i>Departamento: {{page.departamento}}</p>
-  <p><i class="material-icons">local_phone</i>Teléfono: {{page.telefono}}</p>
-  <p><i class="material-icons">mail_outline</i>Coreo: <a href:mailto={{page.correo}}>{{page.correo}}</a></p>
-  <p><i class="material-icons">insert_lin</i>Web: <a href={{page.web}}>{{page.web}}</a></p>
-  <p><i class="material-icons">attach_money</i>Precio: {{page.precio}}</p>
-  <p><i class="material-icons">people</i>Capacidad: {{page.capacidad}}</p>
-  <p><i class="material-icons">date_range</i>Disponibilidad: {{page.disponibilidad}} </p>
-{{content}}
-<p/>
-  <p style="font-style: italic;">Si cree que alguno de estos datos es incorrecto o que podemos agregar otros de interes por favor escribirnos a </p>
+    <h1>{{page.title}}</h1>
+    <dl class="customdl">
+      <dt class="customdt"><i class="material-icons">location_on</i> Dirección:</dt>
+      <dd class="customdd">{{page.direccion}}</dd>
+      <dt class="customdt"><i class="material-icons">location_city</i> Departamento:</dt>
+      <dd class="customdd">{{page.departamento}}</dd>
+      <dt class="customdt"><i class="material-icons">local_phone</i> Teléfono:</dt>
+      <dd class="customdd">{{page.telefono}}</dd>
+      <dt class="customdt"><i class="material-icons">mail_outline</i> Coreo:</dt>
+      <dd class="customdd"><a href:mailto={{page.correo}}>{{page.correo}}</a></dd>
+      <dt class="customdt"><i class="material-icons">insert_link</i> Web:</dt>
+      <dd class="customdd"><a href={{page.web}}>{{page.web}}</a></dd>
+      <dt class="customdt"><i class="material-icons">attach_money</i> Precio:</dt>
+      <dd class="customdd">{{page.precio}}</dd>
+      <dt class="customdt"><i class="material-icons">people</i> Capacidad:</dt>
+      <dd class="customdd">{{page.capacidad}}</dd>
+      <dt class="customdt"><i class="material-icons">date_range</i> Disponibilidad:</dt>
+      <dd class="customdd">{{page.disponibilidad}} </dd>
+    </dl>
+    {{content}}
+    <p/>
+    <p style="font-style: italic;">Si cree que alguno de estos datos es incorrecto o que podemos agregar otros de interes por favor escribirnos a </p>
 </section>
 
 {%include comentarios.html%}
