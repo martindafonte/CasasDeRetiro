@@ -5,7 +5,8 @@ permalink: listado de casas
 ---
 <h2>Listado de Casas</h2>
 <ul>
-  {% for casa in site.casas %}
+  {%assign casas = site.casas | sort:"title" %}
+  {% for casa in casas%}
     <li>
       <a href="{{ casa.url | prepend: site.github.url }}">{{ casa.title }}</a>
     </li>
