@@ -13,3 +13,9 @@ collections:
     type: page
     permalink: /casas/:path/
     output: true
+defaults:
+  -
+    scope:
+      type: "casas"
+    values:
+      layout: "casas"
