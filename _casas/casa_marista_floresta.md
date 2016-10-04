@@ -1,7 +1,6 @@
 ---
 title: Casa Marista, La Floresta
 category: Montevideo
-layout: default
 ---
 
 <h1>Casa Marista, La Floresta</h1>

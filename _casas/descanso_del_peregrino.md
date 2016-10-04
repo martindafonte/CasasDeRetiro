@@ -1,7 +1,6 @@
 ---
 title: Descanso del Peregrino
 category: Montevideo
-layout: default
 ---
 
 <h1>Descanso del Peregrino</h1>

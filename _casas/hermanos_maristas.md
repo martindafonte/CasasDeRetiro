@@ -1,20 +1,19 @@
 ---
-title: San Antonio Maria Claret
+title: Hermanos Maristas
 category: Montevideo
-layout: default
 ---
 
-<h1>San Antonio Maria Claret</h1>
+<h1>Hermanos Maristas</h1>
 
 
-<p> Direccion: Rocha y Florida </p>
+<p> Direccion: Camino Mangaga 7790 – Montevideo </p>
 <p>Departamento: Montevideo</p>
-<p>Telefono: Sin dato </p>
+<p>Telefono: 2487 2212 </p>
 <p>Email: Sin dato </p>
-<p>web: Sin dato </p>
-<p>Capacidad: 60 </p>
+<p>web: 	www.maristas.edu.uy</p>
+<p>Capacidad: Sin dato</p>
 <p>Servicios: Sin dato</p>
-<p>Precio: $200 </p>
+<p>Precio: Sin dato</p>
 <p>Disponibilidad: Proximamente </p>
 
 

@@ -1,10 +1,9 @@
 ---
-title: Jesus Buen Pastor
+title: Centro Mariápolis El Pelícano
 category: Montevideo
-layout: default
 ---
 
-<h1>Jesus Buen Pastor</h1>
+<h1>Centro Mariápolis El Pelícano</h1>
 
 
 <p> Direccion: Luis A. de Herrera 4278 – Montevideo </p>

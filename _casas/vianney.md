@@ -1,7 +1,6 @@
 ---
 title: Casa Vianney
 category: Montevideo
-layout: default
 ---
 
 <h1>Casa Vianney</h1>

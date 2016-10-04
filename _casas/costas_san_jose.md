@@ -1,7 +1,6 @@
 ---
 title: Costas del San Jose
 category: Montevideo
-layout: default
 ---
 
 <h1>COSTAS DEL SAN JOSE</h1>

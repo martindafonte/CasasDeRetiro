@@ -1,17 +1,16 @@
 ---
-title: Hermanos Maristas
+title: Jesus Buen Pastor
 category: Montevideo
-layout: default
 ---
 
-<h1>Hermanos Maristas</h1>
+<h1>Jesus Buen Pastor</h1>
 
 
-<p> Direccion: Camino Mangaga 7790 – Montevideo </p>
+<p> Direccion: Luis A. de Herrera 4278 – Montevideo </p>
 <p>Departamento: Montevideo</p>
-<p>Telefono: 2487 2212 </p>
-<p>Email: Sin dato </p>
-<p>web: 	www.maristas.edu.uy</p>
+<p>Telefono: 2336 0836 </p>
+<p>Email: manresa@ucu.edu.uy</p>
+<p>web: www.jesuitas.org.uy</p>
 <p>Capacidad: Sin dato</p>
 <p>Servicios: Sin dato</p>
 <p>Precio: Sin dato</p>

@@ -1,7 +1,6 @@
 ---
 title: Manresa
 category: Montevideo
-layout: default
 ---
 
 <h1>MANRESA</h1>

@@ -1,10 +1,9 @@
 ---
-title: Manresa
+title: Domus Pacis
 category: Montevideo
-layout: default
 ---
 
-<h1>MANRESA</h1>
+<h1>Domus Pacis</h1>
 
 
 <p> Direccion: Luis A. de Herrera 4278 – Montevideo </p>
