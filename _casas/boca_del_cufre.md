@@ -1,22 +1,22 @@
 ---
-title: Boca del Cufré
+title: Costas del San Jose
 category: Montevideo
-layout: default
 ---
 
-<h1>Boca del Cufré</h1>
+<h1>COSTAS DEL SAN JOSE</h1>
 
 
-<p> Direccion: Rambla Perea; Canelenos, Departamento de Canelones, Uruguay </p>
-<p>Departamento: Canelenos</p>
-<p>Telefono: Sin dato </p>
-<p>Email: Sin dato </p>
-<p>web: Sin dato </p>
-<p>Capacidad: 24 </p>
-<p>Servicios: Sin dato</p>
+<p> Direccion: Camino de La Costa, San Jose, Uruguay </p>
+<p>Departamento: Montevideo</p>
+<p>Telefono: 	24082756 </p>
+<p>Email: adminitracion@juan23.edu.uy </p>
+<p>web: 	www.juan23.edu.uy/Servicios/CostasSanJose.aspx</p>
+<p>Capacidad: 80 </p>
+<p>Servicios: 	
+Duchas con agua caliente / agua potable / Energía eléctrica/ Sector multiuso / sector para fuego / cocina a gas totalmente equipada / duchas con agua caliente</p>
 <p>Precio: Sin dato</p>
 <p>Disponibilidad: Proximamente </p>
 
 
-<p>Si cree que alguno de estos datos es incorrecto o que podemos agregar otros de interes por favor escribirnos a </p>
+<p>Actívate, crece cada día gracias a la participación de gente como tú. Por lo cual si crees que algún dato que brindamos es incorrecto o falta mencionar información no dudes en escribirnos  </p>
 
