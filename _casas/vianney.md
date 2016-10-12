@@ -1,20 +1,22 @@
 ---
-title: Casa Vianney
+title: Vianney
 category: Montevideo
+direccion: Camino de La Costa, San Jose, Uruguay
+departamento: Montevideo
+telefono: 24082756
+correo: administracion@juan23.edu.uy
+web: www.juan23.edu.uy/Servicios/CostasSanJose.aspx
+capacidad: 80
+precio: No disponible
+disponibilidad: No disponible
 ---
 
-<h1>Casa Vianney</h1>
-
-
-<p> Direccion: Camino Buxareo y Cno. Melilla – Montevideo </p>
-<p>Departamento: Montevideo</p>
-<p>Telefono: Sin dato</p>
-<p>Email: Sin dato</p>
-<p>web: Sin dato</p>
-<p>Capacidad: Sin dato</p>
-<p>Servicios: Sin dato</p>
-<p>Precio: Sin dato</p>
-<p>Disponibilidad: Proximamente </p>
-
-
-<p>Actívate, crece cada día gracias a la participación de gente como tú. Por lo cual si crees que algún dato que brindamos es incorrecto o falta mencionar información no dudes en escribirnos </p>
+### Otros Servicios
+* Duchas con agua caliente 
+* agua potable 
+* Energía eléctrica
+* Sector multiuso 
+* sector para fuego 
+* cocina a gas totalmente equipada 
+* parillero
+* tajamar y canoas
