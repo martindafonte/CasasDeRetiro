@@ -1,5 +1,5 @@
 ---
-title: Costas del San José
+title: Bocas del Cufre
 category: Montevideo
 direccion: Camino de La Costa, San Jose, Uruguay
 departamento: Montevideo
