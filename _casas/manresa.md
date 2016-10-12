@@ -1,20 +1,23 @@
 ---
 title: Manresa
 category: Montevideo
+direccion: Camino de La Costa, San Jose, Uruguay
+departamento: Montevideo
+telefono: 24082756
+correo: administracion@juan23.edu.uy
+web: www.juan23.edu.uy/Servicios/CostasSanJose.aspx
+capacidad: 80
+precio: No disponible
+disponibilidad: No disponible
 ---
 
-<h1>MANRESA</h1>
+### Otros Servicios
+* Duchas con agua caliente 
+* agua potable 
+* Energía eléctrica
+* Sector multiuso 
+* sector para fuego 
+* cocina a gas totalmente equipada 
+* parillero
+* tajamar y canoas
 
-
-<p> Direccion: Luis A. de Herrera 4278 – Montevideo </p>
-<p>Departamento: Montevideo</p>
-<p>Telefono: 2336 0836 </p>
-<p>Email: manresa@ucu.edu.uy</p>
-<p>web: www.jesuitas.org.uy</p>
-<p>Capacidad: Sin dato</p>
-<p>Servicios: Sin dato</p>
-<p>Precio: Sin dato</p>
-<p>Disponibilidad: Proximamente </p>
-
-
-<p>Si cree que alguno de estos datos es incorrecto o que podemos agregar otros de interes por favor escribirnos a </p>
