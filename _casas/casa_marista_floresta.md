@@ -1,20 +1,22 @@
 ---
-title: Casa Marista, La Floresta
+title: Casa Marista, la Floresta
 category: Montevideo
+direccion: Camino de La Costa, San Jose, Uruguay
+departamento: Montevideo
+telefono: 24082756
+correo: administracion@juan23.edu.uy
+web: www.juan23.edu.uy/Servicios/CostasSanJose.aspx
+capacidad: 80
+precio: No disponible
+disponibilidad: No disponible
 ---
 
-<h1>Casa Marista, La Floresta</h1>
-
-
-<p> Direccion: Rambla Perea; Canelenos, Departamento de Canelones, Uruguay </p>
-<p>Departamento: Canelenos</p>
-<p>Telefono: Sin dato </p>
-<p>Email: Sin dato </p>
-<p>web: Sin dato </p>
-<p>Capacidad: 24 </p>
-<p>Servicios: Sin dato</p>
-<p>Precio: Sin dato</p>
-<p>Disponibilidad: Proximamente </p>
-
-
-<p>Si cree que alguno de estos datos es incorrecto o que podemos agregar otros de interes por favor escribirnos a </p>
+### Otros Servicios
+* Duchas con agua caliente 
+* agua potable 
+* Energía eléctrica
+* Sector multiuso 
+* sector para fuego 
+* cocina a gas totalmente equipada 
+* parillero
+* tajamar y canoas
